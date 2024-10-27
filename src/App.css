@@ -1,0 +1,80 @@
+
+.login
+  {
+    text-align : center;
+    border:3px solid;
+    border-radius: 10px;
+    align-items:center;
+    display:flex;
+    justify-content: center;
+    background : white;
+    width: 600px;
+    height:400px;
+  }
+  
+body {
+  background-color: #C3B1E1;;
+  min-height: 100vh;
+  width:100vw;
+  display: flex;
+  align-items: center;
+  margin:auto;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;}
+
+
+.login input[type="password"],
+input[type="text"]
+{
+  margin-left: 60px;
+  padding:7px;
+  border-radius:5px;
+}
+.login button{
+  align-items: left;
+  padding:5px;
+}
+.sign
+{
+  padding:9px;
+  margin-top: 280px;
+}
+.fp
+{
+ margin-left: 60px;
+color:black;
+font-size: 20px;
+font-family: Cambria;
+}
+.signup{
+    text-align : center;
+    border:3px solid;
+    border-radius: 10px;
+    align-items:center;
+    display:flex;
+    justify-content: center;
+    background : white;
+    width: 600px;
+    height:400px;
+  }
+  .signup input[type="password"],
+  input[type="text"],
+  input[type="text"]
+  {
+    margin-left: 60px;
+    padding:7px;
+    border-radius:5px;
+  }
+  .bu
+  {
+    display: flex;
+    align-items:center;
+    padding:40px;
+  }
+  .sign1
+  {
+    display: flex;
+    padding:5px;
+    margin-top: 300px;
+  }
